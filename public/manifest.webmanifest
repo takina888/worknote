@@ -1,0 +1,12 @@
+{
+  "name": "WORK NOTE",
+  "short_name": "WORK NOTE",
+  "description": "仕事のメモ・写真・図形・寸法を一つのページで扱うオフライン対応ノート",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8f8",
+  "theme_color": "#145c73",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
